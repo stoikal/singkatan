@@ -1,8 +1,8 @@
 # Singkatan Terindonesiakan
 
-* smh - saya menggeleng heran
-* imo - izin menyampaikan opini
-* tmi - terlalu membeberkan informasi
 * ama - akan menjawab apapun
-* ysk - yang sebaiknya kautahu
+* imo - izin menyampaikan opini
+* smh - saya menggeleng heran
 * lmao - lawaknya mana ada obat
+* tmi - terlalu membeberkan informasi
+* ysk - yang sebaiknya kautahu
