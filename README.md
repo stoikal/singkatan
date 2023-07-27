@@ -9,4 +9,5 @@
 * lmao - lawak! membuat ane oleng
 * lol - lawak! ototku loyo
 * tmi - terlalu mengumbar informasi
+* ttyl - temu tempo yang lain
 * ysk - yang sebaiknya kautahu
