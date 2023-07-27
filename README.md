@@ -1,6 +1,6 @@
 # Singkatan Terindonesiakan
 
-* ama - akan menjawab apapun
+* ama - ayo menanya apapun
 * brb - butuh rehat bentar
 * imo - izin menyampaikan opini
 * smh - saya menggeleng heran
