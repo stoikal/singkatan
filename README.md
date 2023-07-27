@@ -8,5 +8,5 @@
 * smh - saya menggeleng heran
 * lmao - lawak! membuat ane oleng
 * lol - lawak! ototku loyo
-* tmi - terlalu membeberkan informasi
+* tmi - terlalu mengumbar informasi
 * ysk - yang sebaiknya kautahu
