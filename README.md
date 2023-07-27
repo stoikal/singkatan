@@ -2,6 +2,7 @@
 
 * smh - saya menggeleng heran
 * imo - izin menyampaikan opini
+* tmi - terlalu membeberkan informasi
 * ama - akan menjawab apapun
 * ysk - yang sebaiknya kautahu
-* lmao - lawak! mana ada obat
+* lmao - lawaknya mana ada obat
