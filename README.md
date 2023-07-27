@@ -4,6 +4,6 @@
 * brb - butuh rehat bentar
 * imo - izin menyampaikan opini
 * smh - saya menggeleng heran
-* lmao - lawaknya mana ada obat
+* lmao - lawak! membuat ane oleng
 * tmi - terlalu membeberkan informasi
 * ysk - yang sebaiknya kautahu
