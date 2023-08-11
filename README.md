@@ -2,6 +2,7 @@
 
 * **AFK** *(Away From Keyboard)* - **Ada Fokus Keluar**
 * **AMA** *(Ask Me Anything)* - **Ayo Menanyalah Apapun**
+* **ASAP** *(As Soon As Possible)* - **Agar/Akan Secepatnya Anda/Aku Perbuat**
 * **BRB** *(Be Right Back)* - **Butuh Rihat Bentar**
 * **CMIIW** *(Correct Me If I'm Wrong)* - **Celalah Misalkan Informasi Ini Waham**
 * **ELI5** *(Explain Like I'm 5)* - **Embar Layaknya ke Insan 5 (Tahun)**
