@@ -1,5 +1,6 @@
 # Singkatan Populer dalam Pergaulan Dunia Maya
 
+* **AFK** *(Away From Keyboard)* - **Ada Fokus Keluar**
 * **AMA** *(Ask Me Anything)* - **Ayo Menanyalah Apapun**
 * **BRB** *(Be Right Back)* - **Butuh Rihat Bentar**
 * **CMIIW** *(Correct Me If I'm Wrong)* - **Celalah Misalkan Informasi Ini Waham**
