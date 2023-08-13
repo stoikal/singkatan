@@ -6,6 +6,7 @@
 * **BRB** *(Be Right Back)* - **Butuh Rihat Bentar**
 * **CMIIW** *(Correct Me If I'm Wrong)* - **Celalah Misalkan Informasi Ini Waham**
 * **ELI5** *(Explain Like I'm 5)* - **Embar Layaknya ke Insan 5 (Tahun)**
+* **IDK** *(I Don't Know)* - **Indak Daku Ketahui**
 * **IIRC** *(If I Recall Correctly)* - **Ingatan Ini Rada Cemen**
 * **IMO** *(In My Opinion)* - **Izin Menyampaikan Opini**
 * **IRL** *(In Real Life)* - **Intra Ruang Luring**
