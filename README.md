@@ -12,6 +12,7 @@
 * **IRL** *(In Real Life)* - **Intra Ruang Luring**
 * **LMAO** *(Laughing My Ass Off)* - **Lawak! Membuat Ane Oleng**
 * **LOL** *(Laugh Out Loud)* - **Lawak! Ototku Loyo**
+* **OOT** *(Out Of Topic)* - **Obrolan Ogut Tualang**
 * **OOTD** *(Outfit Of The Day)* - **Outfit Ogut Terkini Dong**
 * **SMH** *(Shaking My Head)* - **Saya Menggeleng Heran**
 * **TMI** *(Too Much Information)* - **Terlalu Mengumbar Informasi**
