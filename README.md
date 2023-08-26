@@ -1,4 +1,4 @@
-# Singkatan Populer dalam Pergaulan Dunia Maya
+# Terjemahan Singkatan Populer dalam Pergaulan Dunia Maya
 
 * **AFK** *(Away From Keyboard)* - **Ada Fokus Keluar**
 * **AMA** *(Ask Me Anything)* - **Ayo Menanyalah Apapun**
