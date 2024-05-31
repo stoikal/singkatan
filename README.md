@@ -18,3 +18,6 @@
 * **TMI** *(Too Much Information)* - **Terlalu Mengumbar Informasi**
 * **TTYL** *(Talk To You Later)* - **Temu Tempo Yang Lain**
 * **YSK** *(You Should Know)* - **Yang Sebaiknya Kautahu**
+
+
+test commit
