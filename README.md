@@ -10,7 +10,7 @@
 * **IIRC** *(If I Recall Correctly)* - **Ingatan Ini Rada Cemen**
 * **IMO** *(In My Opinion)* - **Izin Menyampaikan Opini**
 * **IRL** *(In Real Life)* - **Intra Ruang Luring**
-* **LMAO** *(Laughing My Ass Off)* - **Lawak! Membuat Ane Oleng**
+* **LMAO** *(Laughing My Ass Off)* - **Lawak! Membuat Aku Oleng**
 * **LOL** *(Laugh Out Loud)* - **Lawak! Ototku Loyo**
 * **OOT** *(Out Of Topic)* - **Obrolan Ogut Tualang**
 * **OOTD** *(Outfit Of The Day)* - **Outfit Ogut Terkini Dong**
